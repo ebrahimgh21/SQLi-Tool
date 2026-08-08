@@ -74,7 +74,6 @@ Simple GUI-based security testing tool for developers who don't have security kn
 Windows:
 
 Double-click "Run_SQLiTool.bat"
-```bash
 Linux:
 bash
 tar -xzf SQLTool_Linux_Portable.tar.gz
