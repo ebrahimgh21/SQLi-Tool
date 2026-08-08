@@ -2,7 +2,7 @@
 Simple GUI-based security testing tool for developers who don't have security knowledge. Easier than SQLMap!
 ## 🎯 What is This?
 
-**MRE Security Analyzer** is a **simple, GUI-based security testing tool** designed specifically for **developers who don't have security knowledge**.
+**SQLi-Tool** is a **simple, GUI-based security testing tool**....
 
 ### Why Another Tool?
 
@@ -95,7 +95,7 @@ Click "▶ Start Attack"
 That's it! No coding, no commands!
 
 🆚 vs SQLMap
-Feature	MRE Security Analyzer	SQLMap
+Feature | SQLi-Tool | SQLMap
 GUI Interface	✅ Yes	❌ No
 Learning Curve	✅ Easy	❌ Steep
 Knowledge Required	✅ None	❌ Expert
@@ -130,10 +130,6 @@ Other people's websites
 Websites you don't own
 
 Without permission
-
-🛡️ Remember:
-With great power comes great responsibility.
-This tool is for learning and protecting your own work.
 
 ❓ FAQ
 Q: Do I need to know programming?
