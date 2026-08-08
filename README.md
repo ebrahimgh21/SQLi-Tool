@@ -1,4 +1,4 @@
-# SQL_TOOL
+# SQLi-Tool
 Simple GUI-based security testing tool for developers who don't have security knowledge. Easier than SQLMap!
 ## 🎯 What is This?
 
