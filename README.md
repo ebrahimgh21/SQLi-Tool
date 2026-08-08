@@ -74,11 +74,17 @@ Simple GUI-based security testing tool for developers who don't have security kn
 Windows:
 
 Double-click "Run_SQLiTool.bat"
+
 Linux:
+
 bash
+
 tar -xzf SQLTool_Linux_Portable.tar.gz
+
 cd SQLTool_Linux_Portable
+
 Step 4: Use
+
 Enter target URL (e.g., http://testphp.vulnweb.com/artists.php)
 
 Enter parameter (e.g., id=1)
@@ -94,15 +100,25 @@ Click "▶ Start Attack"
 That's it! No coding, no commands!
 
 🆚 vs SQLMap
+
 Feature | SQLi-Tool | SQLMap
+
 GUI Interface	✅ Yes	❌ No
+
 Learning Curve	✅ Easy	❌ Steep
+
 Knowledge Required	✅ None	❌ Expert
+
 Visual Feedback	✅ Colored output	❌ Text only
+
 Setup Time	✅ 1 minute	❌ 30+ minutes
+
 For Developers	✅ Yes	❌ No
+
 📚 Source Code
+
 🔗 Full Source Code Available on Telegram:
+
 https://img.shields.io/badge/%F0%9F%93%B1_Get_Source_@MRE_TOOLS-blue?style=for-the-badge&logo=telegram
 
 Why source code is on Telegram:
@@ -116,7 +132,9 @@ Why source code is on Telegram:
 ✅ Quick bug fixes
 
 ⚠️ Important Notes
+
 ✅ Only Use On:
+
 Your own websites
 
 Websites you have permission to test
