@@ -71,11 +71,11 @@ Simple GUI-based security testing tool for developers who don't have security kn
 - Get the package for your OS from Telegram
 
 ### Step 3: Run
-**Windows:**
-```bash
-Double-click "Run_SQLiTool.bat"
-Linux:
+Windows:
 
+Double-click "Run_SQLiTool.bat"
+```bash
+Linux:
 bash
 tar -xzf SQLTool_Linux_Portable.tar.gz
 cd SQLTool_Linux_Portable
