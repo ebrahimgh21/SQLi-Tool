@@ -61,7 +61,7 @@ Simple GUI-based security testing tool for developers who don't have security kn
 - ✅ **Updates** - Latest versions
 
 ---
-
+<img width="1919" height="1017" alt="Screenshot 2026-08-09 013009" src="https://github.com/user-attachments/assets/8b9cc679-5e52-4379-9c3e-e4bf8c7d963f" />
 ## 🚀 Quick Start
 
 ### Step 1: Join Telegram
