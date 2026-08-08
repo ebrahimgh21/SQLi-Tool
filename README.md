@@ -150,20 +150,27 @@ Without permission
 
 ❓ FAQ
 Q: Do I need to know programming?
+
 A: No! If you can use a web browser, you can use this tool.
 
 Q: Is this tool illegal?
+
 A: The tool itself is legal. How you use it determines legality. Only test your own sites!
 
 Q: Why do I need a keyword?
+
 A: The keyword helps the tool understand if a condition is true or false. It must be a word/phrase that appears on the success page.
 
 Q: How do I find a keyword?
+
 A: Open the page normally and find a unique phrase like "Welcome back" or "Profile" that appears when the page loads correctly.
 
 Q: Where is the source code?
+
 A: Full source code is available on Telegram @MRE_TOOLS
 
 📞 Connect With Us
+
 Platform	Link	Purpose
+
 Telegram Channel	@MRE_TOOLS	Downloads & Updates
